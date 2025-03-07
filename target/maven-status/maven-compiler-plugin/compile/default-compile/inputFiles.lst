@@ -1,0 +1,5 @@
+/Users/emilianoneaves/javaprojects/oracladatabase/oci-microservice/src/main/java/com/example/oci_microservice/OciMicroserviceApplication.java
+/Users/emilianoneaves/javaprojects/oracladatabase/oci-microservice/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/emilianoneaves/javaprojects/oracladatabase/oci-microservice/src/main/java/com/example/oci_microservice/model/User.java
+/Users/emilianoneaves/javaprojects/oracladatabase/oci-microservice/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/emilianoneaves/javaprojects/oracladatabase/oci-microservice/src/main/java/com/example/oci_microservice/service/UserService.java
